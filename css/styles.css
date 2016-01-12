@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+}
+
+#user_input {
+  display: none;
+  border:1px;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.white-background {
+  background-color: white;
+}
+
+.blue-background {
+  background-color: blue;
+}
+
+.btn-group {
+  padding-top: 7px;
+  margin-top: 10px;
+  margin-left: 465px;
+}
+
+.green-background {
+  background-color: #379770;
+  color: white;
+}
