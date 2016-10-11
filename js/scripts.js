@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
   $("form#blanks").submit(function(event) {
-      // debugger;
+      // debugger; << Is this still needed? Perry told me in a code review we shouldn't leave code that is commented out :)
     var yourName = $("input#name").val();
     var favFood = $("input#favoriteFood").val();
     var favMusic = $("input#favoriteMusic").val();
